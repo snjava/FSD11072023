@@ -1,9 +1,11 @@
 public class SwitchDemo {
 	public static void main(String args[]) { 
-		int day = 50;
+		int day = 5;
 		switch(day)
 		{	
 			case 1:
+			case 8:
+			case 16:
 				System.out.println("Mon");
 				break;
 			case 2:
