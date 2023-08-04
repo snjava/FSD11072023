@@ -1,13 +1,10 @@
-public class DoWhileDemo
+public class ForDemo
 {
 	public static void main(String args[])
 	{
-		int i = 1;
-		do
+		for(int i=1 ; i<=20 ; i=i+2)
 		{
 			System.out.println(i);
-			i = i + 2;
 		}
-		while(i<=20);
 	}
-}
+} 
