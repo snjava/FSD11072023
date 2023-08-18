@@ -7,7 +7,7 @@
 #### Important Links
 
 * **[JDK](https://www.oracle.com/java/technologies/downloads/)**
-* **[Eclipse](https://www.eclipse.org/downloads/download.php?file=/technology/epp/downloads/release/2022-12/R/eclipse-jee-2022-12-R-win32-x86_64.zip)**
+* **[Eclipse](https://www.eclipse.org/downloads/download.php?file=/technology/epp/downloads/release/2023-06/R/eclipse-jee-2023-06-R-win32-x86_64.zip)**
 * **[Core Java Tutorial and Interview Q&A](https://javainbeats.com/#/)**
 
 ## Author : Sumit :technologist:
