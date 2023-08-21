@@ -1,33 +1,26 @@
 // Encapsulation class, DTO(Data Transfer Object), Entity class, Bean Class, POJO(Plain Old Java Object) class
 class Employee {
-	private int empid;
+	private int id;
 	private String name;
 	private double salary;
-	//Setter methods accept the values which needs to set and no return anything.
-	public void setId(int i) {
-		empid = i;
-	}
-	public void setName(String n) {
-		name = n;
-	}
-	public void setSalary(double s) {
-		if(s>=2000) {
-			salary = s;	
-		} else {
-			System.out.println("Invalid Salary....");
-			System.exit(0);
-		}
-	}
-	//Getter methods will not accept any input value but return the value.
 	public int getId() {
-		return empid;
+		return id;
+	}
+	public void setId(int id) {
+		this.id = id;
 	}
 	public String getName() {
 		return name;
 	}
+	public void setName(String name) {
+		this.name = name;
+	}
 	public double getSalary() {
 		return salary;
 	}
+	public void setSalary(double salary) {
+		this.salary = salary;
+	}	
 }
 
 public class EmpOperations {
