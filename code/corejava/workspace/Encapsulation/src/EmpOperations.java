@@ -26,7 +26,7 @@ class Employee {
 public class EmpOperations {
 	public static void main(String[] args) {
 		Employee emp = new Employee();
-		emp.setId(34);
+		emp.setId(34);  // In Spring it is also known as SI (Setter Injection)
 		emp.setName("Abcd");
 		emp.setSalary(345345.34);
 		
