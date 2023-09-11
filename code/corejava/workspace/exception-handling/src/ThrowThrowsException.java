@@ -1,7 +1,7 @@
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
-public class ThowThowsException {
+public class ThrowThrowsException {
 	public static void main(String[] args) {
 		try {
 			loadData();
