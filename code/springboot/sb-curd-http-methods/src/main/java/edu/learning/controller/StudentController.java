@@ -32,6 +32,7 @@ public class StudentController {
 		return service.getAllStudent();
 	}
 	
+	// localhost:8080/delete-by-id?id=333
 	@DeleteMapping("/delete-by-id")
 	public String deleteStud(@RequestParam("id") int id) {
 		service.delete(id);
