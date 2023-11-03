@@ -14,6 +14,8 @@ import javax.persistence.Transient;
 import org.hibernate.annotations.CreationTimestamp;
 import org.hibernate.annotations.UpdateTimestamp;
 
+// SQL: UPDATE empdetails SET doj='' WHERE empid=2;
+// HQL: UPDATE Employee SET doj='' WHERE id=2
 @Entity
 @Table(name = "empdetails")
 public class Employee {
