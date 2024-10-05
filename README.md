@@ -1,3 +1,5 @@
+![alt text]([http://url/to/img.png](https://github.com/snjava/git-github-demo/blob/main/Adv1.png))
+
 # Core Java, SQL, Spring Boot
 
 * **[Core Java](https://github.com/snjava/FSD-240423/tree/main/code/corejava)**
