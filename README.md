@@ -1,4 +1,4 @@
-![alt text]([http://url/to/img.png](https://github.com/snjava/git-github-demo/blob/main/Adv1.png))
+![alt text](https://github.com/snjava/git-github-demo/blob/main/Adv1.png)
 
 # Core Java, SQL, Spring Boot
 
